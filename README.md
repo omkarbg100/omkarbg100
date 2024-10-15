@@ -70,3 +70,7 @@ I'm an **AI/ML Enthusiast** and a **Part-time Web Developer**. I'm passionate ab
 ### GitHub Stats
 
 ![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarbg100&show_icons=true&theme=radical)
+
+### Codechef
+
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/omkarbg100?v=1)
