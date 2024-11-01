@@ -7,10 +7,10 @@
 
 ### About Me
 
-I'm an **AI/ML Enthusiast** and a **Part-time Web Developer**. I'm passionate about exploring new fields in technology and contributing to innovative projects. 
+I'm an **Web Developer** and a **AI/ML Enthusiast**. I'm passionate about exploring new fields in technology and contributing to innovative projects. 
 
-- 🔭 **Currently working on:** Building and experimenting with new AI models.
-- 🌱 **Always learning:** AI technologies, Machine Learning techniques, and Web Development tools.
+- 🔭 **Currently working on:** New Technologys in WEB Devlopment , Building and experimenting with new AI models.
+- 🌱 **Always learning:** Web Development , AI technologies, Machine Learning techniques and tools.
 - ⚡ **Fascinated by:** Artificial Intelligence and how it's reshaping the future.
 
 ---
