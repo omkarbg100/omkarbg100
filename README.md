@@ -66,8 +66,3 @@ I'm an **Web Developer** and a **AI/ML Enthusiast**. I'm passionate about explor
 - 📫 Email: omkar.b.g.100@gmail.com
 - 🌐 LinkedIn: www.linkedin.com/in/omkar-gaikwad-a37a0628b
 ---
-
-### GitHub Stats
-
-![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarbg100&show_icons=true&theme=radical)
-
