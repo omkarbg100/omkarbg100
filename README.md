@@ -7,10 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Final+Year+B.Tech+@+IIIT+Bhopal;Software+Engineering+Intern+@+IAmMaturity;Amazon+ML+Summer+School+2026;Backend+%7C+Full+Stack+%7C+AI;LLMs+%7C+RAG+%7C+FastAPI+%7C+Distributed+Systems;Building+Production+Ready+Software" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-<a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/omkar-gaikwad-a37a0628b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://leetcode.com/u/Omkargaikwad100/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://www.codechef.com/users/omkarbg100"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+<a href="https://github.com/omkarbg100"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
 <a href="mailto:omkar.b.g.100@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
