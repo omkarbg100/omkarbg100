@@ -18,9 +18,9 @@
 
 </div>
 
----
-🚀 Building scalable backend systems, AI-powered applications, and developer tools with a focus on performance, reliability, and real-world impact. Passionate about Software Engineering, AI, and solving challenging problems.
----
+<p>
+  software Engineer focused on Backend Development and AI, building production-ready applications using modern technologies. Always learning, building, and solving real-world problems.
+</p>
 
 # 🏆 Achievements
 
