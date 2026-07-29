@@ -19,22 +19,7 @@
 </div>
 
 ---
-
-# 🚀 Building Intelligent Software Systems
-
-I enjoy building scalable backend systems, AI-powered applications, and developer tools that solve real-world problems.
-
-My interests lie at the intersection of
-
-- Backend Engineering
-- Artificial Intelligence
-- Distributed Systems
-- Large Language Models
-- System Design
-- Developer Infrastructure
-
-I'm passionate about building software that is not only functional but also scalable, maintainable, and production-ready.
-
+🚀 Building scalable backend systems, AI-powered applications, and developer tools with a focus on performance, reliability, and real-world impact. Passionate about Software Engineering, AI, and solving challenging problems.
 ---
 
 # 🏆 Achievements
