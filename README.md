@@ -14,7 +14,7 @@
 <a href="mailto:omkar.b.g.100@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=omkarbg100&style=for-the-badge&color=blue"/>
 
 </div>
 
