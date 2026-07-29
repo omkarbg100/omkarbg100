@@ -72,31 +72,13 @@ Built production-ready backend services and scalable APIs.
 - 🤝 Collaborated with engineers on production deployments
 
 
-# 🛠️ Tech Stack
+---
 
-**💻 Languages** -
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql" height="28"/>
+### 🛠️ Tech Stack
 
-**⚙️ Backend** -
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="28"/>
-<img src="https://cdn.simpleicons.org/socketdotio" height="28"/>
-<img src="https://cdn.simpleicons.org/jsonwebtokens" height="28"/>
+Python • C++ • JavaScript • SQL • React • Next.js • Node.js • Express • FastAPI • MongoDB • PostgreSQL • Redis • Docker • Git • GitHub Actions • AWS • LLMs • RAG • LangChain • OpenAI • Gemini
 
-**🎨 Frontend** -
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui,bootstrap,vite" height="28"/>
-
-**🤖 AI/ML** -
-<img src="https://cdn.simpleicons.org/openai" height="28"/>
-<img src="https://cdn.simpleicons.org/google" height="28"/>
-<img src="https://cdn.simpleicons.org/huggingface" height="28"/>
-
-**🗄️ Databases** -
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" height="28"/>
-<img src="https://typesense.org/typesense-logo-dark.svg" height="22"/>
-<img src="https://www.trychroma.com/_next/static/media/chroma-wordmark.0~1c352v-zy35.svg" height="22"/>
-
-**☁️ DevOps & Cloud** -
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,linux" height="28"/>
+---
 
 <div align="center">
 
