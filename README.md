@@ -22,47 +22,32 @@
   software Engineer focused on Backend Development and AI, building production-ready applications using modern technologies. Always learning, building, and solving real-world problems.
 </p>
 
-# 🏆 Achievements
-
-<div align="center">
-
-| 🎯 Achievement | Details |
-|---------------|---------|
-| 🤖 Amazon ML Summer School 2026 | Selected for Amazon's prestigious Machine Learning Summer School Program |
-| 💻 LeetCode | Solved **950+** algorithmic problems with a **Peak Rating of 1881** |
-| 🥇 CodeChef | **1629 Rating** • Ranked under **Top 100 globally** in CodeChef Starters |
-| ⚔️ Codeforces | Achieved **Pupil** Rank |
-| 🚀 Flipkart GRIDLock 2.0 | Qualified for **Round 2** among **34K+ registrations** |
-| 🏅 HackWithInfy | Cleared coding rounds and advanced to the **Interview Stage** |
-| 🎓 JEE Main | Ranked among the **Top 2%** out of **1.2M+ candidates** nationwide |
-
-</div>
-
 ---
+## 🛠️ Tech Stack
 
-# 💼 Experience
-
-## 👨‍💻 Software Engineering Intern — IAmMaturity
-
-📅 July 2025 – August 2025
-
-Built production-ready backend services and scalable APIs.
-
-### Highlights
-
-- ⚡ Developed and optimized **20+ REST APIs**
-- 🚀 Reduced API latency by **35%**
-- 🔍 Built a production search engine using **Typesense**
-- 🐳 Worked with **Docker**, **Redis**, and **Kafka**
-- 🤝 Collaborated with engineers on production deployments
-
-
----
-
-### 🛠️ Tech Stack
-
-Python • C++ • JavaScript • SQL • React • Next.js • Node.js • Express • FastAPI • MongoDB • PostgreSQL • Redis • Docker • Git • GitHub Actions • AWS • LLMs • RAG • LangChain • OpenAI • Gemini
-
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 ---
 
 <div align="center">
