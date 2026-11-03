@@ -212,7 +212,7 @@ Peak rating: **1881**
 
 ### ⭐ CodeChef
 
-**Rating: 1629**
+**Rating: 1687**
 
 <a href="https://www.codechef.com/users/omkarbg100">
 <img src="https://img.shields.io/badge/View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile"/>
