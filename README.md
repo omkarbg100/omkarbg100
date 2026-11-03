@@ -201,7 +201,7 @@ Peak rating: **1881**
 
 ### 🏆 Codeforces
 
-**Pupil · Rating 1279**
+**Pupil · Rating 1368**
 
 <a href="https://codeforces.com/profile/omkarg100">
 <img src="https://img.shields.io/badge/View%20Profile-445588?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile"/>
